@@ -1,8 +1,10 @@
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="../assets/style.css">
 
-_Last Updated: October 14, 2025_
+_Last Updated: October 17, 2025_
 
 # Terms of Service — Ghost Journal: Detect & Log
+
+_These Terms apply to the **Ghost Journal: Detect & Log** mobile application, developed and published by **Airtech LLC (doing business as TomorrowSkies Studio)**._
 
 These Terms of Service (“Terms”) govern your use of **Ghost Journal: Detect & Log**, developed and published by **Airtech LLC (doing business as TomorrowSkies Studio)** (“we”, “our”, or “us”).  
 By downloading or using the App, you agree to these Terms.
@@ -54,17 +56,17 @@ You may stop using the App at any time by uninstalling it.
 ---
 
 ## 7. Governing Law
-These Terms are governed by the laws of the State of Utah, United States, without regard to conflict-of-law principles.
+These Terms are governed by the laws of the **State of Utah, United States**, without regard to conflict-of-law principles.
 
 ---
 
 ## 8. Contact
 For questions or support, contact:  
-**support@tomorrowskies.com**
+📧 [support@tomorrowskies.com](mailto:support@tomorrowskies.com)
 
-© 2025 Airtech LLC, doing business as TomorrowSkies Studio. All rights reserved.
+---
 
 <footer>
   © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
-  <a href="https://jed-tech.github.io/tomorrowskies-privacy/">https://jed-tech.github.io/tomorrowskies-privacy/</a>
+  <a href="https://privacy.tomorrowskies.com/ghostjournal/">https://privacy.tomorrowskies.com/ghostjournal/</a>
 </footer>

@@ -1,8 +1,10 @@
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="../assets/style.css">
 
-_Last Updated: October 14, 2025_
+_Last Updated: October 17, 2025_
 
 # Privacy Policy — Ghost Journal: Detect & Log
+
+_This Privacy Policy applies to the **Ghost Journal: Detect & Log** mobile application, developed and published by **Airtech LLC (doing business as TomorrowSkies Studio)**._
 
 This Privacy Policy explains how **Airtech LLC (doing business as TomorrowSkies Studio)** (“we”, “our”, or “us”) handles data within the mobile application **Ghost Journal: Detect & Log** (“the App”).
 
@@ -58,7 +60,7 @@ We do not maintain user accounts, cloud backups, or external databases at this t
 ## 4. Third-Party Services
 Currently, the App does not integrate any third-party SDKs.  
 Future releases may include analytics (such as Google Firebase) or ad services (such as AdMob).  
-When added, these providers will be listed in this section and their policies linked here.
+When added, these providers will be listed here, along with direct links to their respective privacy policies.
 
 ---
 
@@ -85,11 +87,11 @@ Material changes will be announced in the App or on our official website.
 
 ## 8. Contact
 Questions or concerns about this policy may be sent to:  
-**support@tomorrowskies.com**
+📧 [support@tomorrowskies.com](mailto:support@tomorrowskies.com)
 
-© 2025 Airtech LLC, doing business as TomorrowSkies Studio. All rights reserved.
+---
 
 <footer>
   © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
-  <a href="https://jed-tech.github.io/tomorrowskies-privacy/">https://jed-tech.github.io/tomorrowskies-privacy/</a>
+  <a href="https://privacy.tomorrowskies.com/ghostjournal/">https://privacy.tomorrowskies.com/ghostjournal/</a>
 </footer>
