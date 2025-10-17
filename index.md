@@ -52,3 +52,8 @@ Our goal is to design games that respond to the real world — encouraging curio
 ---
 
 Thank you for playing and exploring responsibly.
+
+<footer>
+  © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
+  <a href="https://jed-tech.github.io/ghost-journal-public/">https://jed-tech.github.io/ghost-journal-public/</a>
+</footer>
