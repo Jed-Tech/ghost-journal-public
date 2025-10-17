@@ -1,21 +1,22 @@
+/* TomorrowSkies Studio — Minimal Dark Theme
+   Used by https://privacy.tomorrowskies.com/
+   Last updated: October 2025
+*/
+
 body {
-  background-color: #1A1A1A;
-  color: #eaeaea;
-  font-family: system-ui, sans-serif;
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.6;
-  margin: 2rem;
-  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1.25rem;
+  max-width: 750px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+h1, h2, h3 {
+  color: #00c8a1; /* Spectral teal accent */
+  font-weight: 600;
   margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-h1 {
-  border-bottom: 2px solid #00c8a1;
-  padding-bottom: 0.5rem;
 }
 
 a {
@@ -25,51 +26,47 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-ul, ol {
-  margin-left: 1.5rem;
-}
-
-li {
-  margin-bottom: 0.5rem;
+  color: #27e5bd;
 }
 
 hr {
   border: none;
   border-top: 1px solid #333;
-  margin: 2rem 0;
-}
-
-code {
-  background-color: #333;
-  padding: 0.2rem 0.4rem;
-  border-radius: 3px;
-  font-family: 'Courier New', monospace;
-}
-
-pre {
-  background-color: #333;
-  padding: 1rem;
-  border-radius: 5px;
-  overflow-x: auto;
-}
-
-blockquote {
-  border-left: 4px solid #00c8a1;
-  margin: 1rem 0;
-  padding-left: 1rem;
-  color: #ccc;
+  margin: 2.5rem 0;
 }
 
 footer {
   text-align: center;
-  color: #999;
-  margin-top: 3rem;
+  color: #aaa;
   font-size: 0.9rem;
+  margin-top: 3rem;
+  line-height: 1.4;
 }
 
 footer a {
   color: #00c8a1;
   text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color: #27e5bd;
+}
+
+code, pre {
+  background-color: #222;
+  color: #9ef7d9;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 0 1rem;
+    font-size: 0.95rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
 }

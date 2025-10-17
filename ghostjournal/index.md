@@ -1,41 +1,18 @@
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="../assets/style.css">
 
-# TomorrowSkies Privacy Hub
+# Ghost Journal: Detect & Log — Policies
 
-_© 2025 Airtech LLC, doing business as TomorrowSkies Studio_
+Welcome to the **Ghost Journal** documentation section of the TomorrowSkies Privacy Hub.
 
----
+Here you’ll find the official policies that explain how Ghost Journal handles data, permissions, and app usage.
 
-## Welcome
+- [Privacy Policy](privacy-policy)  
+- [Terms of Service](terms-of-service)
 
-This site hosts the official **privacy policies** and **terms of service** for all apps and digital products created by **TomorrowSkies Studio** — a division of **Airtech LLC**.
-
-We design immersive, sensor-driven experiences that respect your privacy.  
-All TomorrowSkies apps follow the same core principles:
-- Local data storage whenever possible  
-- Minimal data collection  
-- Clear permission requests  
-
----
-
-## Applications
-
-### 🕯️ Ghost Journal: Detect & Log
-A paranormal detection and journaling experience that uses your device’s sensors and location.
-
-- [Privacy Policy](ghostjournal/privacy-policy)  
-- [Terms of Service](ghostjournal/terms-of-service)
-
----
-
-## Contact
-
-For privacy inquiries or support:  
+For questions or assistance, contact  
 📧 [support@tomorrowskies.com](mailto:support@tomorrowskies.com)
-
----
 
 <footer>
   © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
-  <a href="https://privacy.tomorrowskies.com/">https://privacy.tomorrowskies.com/</a>
+  <a href="https://privacy.tomorrowskies.com/ghostjournal/">https://privacy.tomorrowskies.com/ghostjournal/</a>
 </footer>
