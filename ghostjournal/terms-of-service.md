@@ -12,7 +12,7 @@ By downloading or using the App, you agree to these Terms.
 ---
 
 ## 1. Use of the App
-Ghost Journal is provided for personal entertainment and educational use.  
+Ghost Journal is provided for personal entertainment use.  
 You agree not to:
 - Reverse engineer, modify, or redistribute the App;
 - Use the App for unlawful purposes;

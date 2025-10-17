@@ -70,3 +70,14 @@ code, pre {
     font-size: 1.6rem;
   }
 }
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  a {
+    color: black !important;
+    text-decoration: underline;
+  }
+}
