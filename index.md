@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/assets/style.css">
 
-# Ghost Journal: Detect & Log
+# TomorrowSkies Studio — Privacy Hub
 
 _© 2025 Airtech LLC, doing business as TomorrowSkies Studio_
 
@@ -8,52 +8,51 @@ _© 2025 Airtech LLC, doing business as TomorrowSkies Studio_
 
 ## Welcome
 
-**Ghost Journal: Detect & Log** is a mobile application that blends environmental sensors, location data, and immersive design to create a unique paranormal detection and journaling experience.
-
-This public site hosts the official documentation for the app’s **Privacy Policy** and **Terms of Service**.  
-These documents explain how data is handled, what permissions are used, and the terms under which the app may be used.
+Welcome to the official privacy and legal documentation hub for **TomorrowSkies Studio** applications.  
+This site provides transparency and compliance information for all our mobile applications.
 
 ---
 
-## Legal Documents
+## Our Applications
 
-- [Privacy Policy](privacy-policy)  
-  _Explains what information the app uses, how it is processed locally, and your data rights._
+### [Ghost Journal: Detect & Log](ghostjournal/)
+A mobile application that blends environmental sensors, location data, and immersive design to create a unique paranormal detection and journaling experience.
 
-- [Terms of Service](terms-of-service)  
-  _Outlines acceptable use, intellectual property, and liability disclaimers._
+**Documentation:**
+- [Privacy Policy](ghostjournal/privacy-policy)
+- [Terms of Service](ghostjournal/terms-of-service)
 
 ---
 
-## Developer & Publisher
+## About TomorrowSkies Studio
 
-**TomorrowSkies Studio**  
-_A division of Airtech LLC_  
+**TomorrowSkies Studio** creates immersive, sensor-driven mobile experiences that blend science, mystery, and play.  
+Our goal is to design games that respond to the real world — encouraging curiosity, exploration, and imagination.
+
+**Developer & Publisher:**  
+Airtech LLC (doing business as TomorrowSkies Studio)  
 Salt Lake City, Utah, USA  
 
-For inquiries related to the app or these documents, contact:  
+---
+
+## Contact
+
+For questions, privacy inquiries, or support, contact:  
 📧 [support@tomorrowskies.com](mailto:support@tomorrowskies.com)
 
 ---
 
-## About TomorrowSkies
+## Our Commitment
 
-TomorrowSkies Studio creates immersive, sensor-driven mobile experiences that blend science, mystery, and play.  
-Our goal is to design games that respond to the real world — encouraging curiosity, exploration, and imagination.
-
----
-
-### Version Information
-
-- **App Name:** Ghost Journal: Detect & Log  
-- **Publisher:** Airtech LLC (dba TomorrowSkies Studio)  
-- **Last Updated:** October 14, 2025  
+We are committed to:
+- **Transparency** in how we handle your data
+- **Privacy by design** in all our applications
+- **Clear communication** about permissions and data usage
+- **Responsible development** of immersive mobile experiences
 
 ---
-
-Thank you for playing and exploring responsibly.
 
 <footer>
   © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
-  <a href="https://jed-tech.github.io/ghost-journal-public/">https://jed-tech.github.io/ghost-journal-public/</a>
+  <a href="https://jed-tech.github.io/tomorrowskies-privacy/">https://jed-tech.github.io/tomorrowskies-privacy/</a>
 </footer>

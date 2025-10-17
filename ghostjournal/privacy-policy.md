@@ -91,5 +91,5 @@ Questions or concerns about this policy may be sent to:
 
 <footer>
   © 2025 Airtech LLC, doing business as TomorrowSkies Studio<br>
-  <a href="https://jed-tech.github.io/ghost-journal-public/">https://jed-tech.github.io/ghost-journal-public/</a>
+  <a href="https://jed-tech.github.io/tomorrowskies-privacy/">https://jed-tech.github.io/tomorrowskies-privacy/</a>
 </footer>
